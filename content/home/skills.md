@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
@@ -15,22 +15,76 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "amazon_aws-icon"
+  icon_pack = "custom"
+  name = "Cloud"
+  description = "**AWS**/GCP"
+
+[[feature]]
+  icon = "linux-icon"
+  icon_pack = "custom"
+  name = "Linux"
+  description = "**Ubuntu**/**SLES**/CentOS/RedHat"
+
+[[feature]]
+  icon = "docker-tile"
+  icon_pack = "custom"
+  name = "Containers"
+  description = "**Docker**/LXC"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "terraformio-icon"
+  icon_pack = "custom"
+  name = "IaC"
+  description = "**Terraform**/CloudFormation"
+
+[[feature]]
+  icon = "packerio-icon"
+  icon_pack = "custom"
+  name = "Image building"
+  description = "**Packer**/Vagrant" 
+
+[[feature]]
+  icon = "kubernetes-icon"
+  icon_pack = "custom"
+  name = "Orchestration"
+  description = "**Kubernetes**/**Docker Swarm**/Apache Mesos"
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "ansible-icon"
+  icon_pack = "custom"
+  name = "Configuration management"
+  description = "**Ansible**/Chef/SaltStack"
+
+[[feature]]
+  icon = "jenkins-icon"
+  icon_pack = "custom"
+  name = "CI/CD"
+  description = "**CircleCI**/**Jenkins**/Gitlab/Github Actions"
+
+[[feature]]
+  icon = "git-scm-icon"
+  icon_pack = "custom"
+  name = "VCS"
+  description = "**Git**/Mercurial"
+
+[[feature]]
+  icon = "python-icon"
+  icon_pack = "custom"
+  name = "Python"
+  description = "Advanced"
+
+[[feature]]
+  icon = "golang-icon"
+  icon_pack = "custom"
+  name = "Golang"
+  description = "Beginner"
+
+[[feature]]
+  icon = "prometheusio-icon"
+  icon_pack = "custom"
+  name = "Monitoring"
+  description = "**Prometheus**/**Grafana**/**Graylog**/Splunk/NewRelic/Sensu"
 
 # Uncomment to use emoji icons.
 # [[feature]]
