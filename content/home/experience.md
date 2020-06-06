@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Senior DevOps Engenieer"
+  title = "Senior DevOps Engineer"
   company = "Netguru"
   company_url = "https://www.netguru.com"
   location = "Gdańsk / Remote"
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "DevOps Engenieer"
+  title = "DevOps Engineer"
   company = "Netguru"
   company_url = "https://www.netguru.com"
   location = "Remote"
@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Junior DevOps Engenieer"
+  title = "Junior DevOps Engineer"
   company = "Netguru"
   company_url = "https://www.netguru.com"
   location = "Remote"

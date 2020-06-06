@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior DevOps Engenieer <br />DevOps Team Leader
+role: Senior DevOps Engineer <br />DevOps Team Leader
 
 # Organizations/Affiliations
 organizations:
@@ -74,7 +74,7 @@ user_groups:
 I will help you ship your app to flexible, cost optimized infrastructure.
 
 - I scale up and scale out, in cloud, mainly in AWS 
-- I build containers and pods. And I orchestrate them effectively
+- I build containers and pods, orchestrating them effectively
 - I live with DevOps mindset, using modern DevOps toolset
 - I'm cloud native, with a rock solid on-premises Linux background
 
