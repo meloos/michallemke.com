@@ -25,7 +25,13 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = ""
   description = """
-  to be continued
+  * Leading team of talented DevOps Engineers
+  * Conducting regular meetings with both whole team and individuals
+  * Planning individual career paths and self development strategies in both soft and technical skills areas
+  * Performing regular employee evaluations based on mutual cooperation, feedback from stakeholders and individual performance
+  * Ownership over DevOps recruitment area as a DevOps tech representative
+  * Active part in recruitment process (tasks evaluations, tech meetings)
+  * Active part in building DevOps team strategy (OKRs, backlog, long term strategy) internally and within company with other leaders and managers
   """
 
 [[experience]]
@@ -36,7 +42,16 @@ date_format = "Jan 2006"
   date_start = "2019-04-01"
   date_end = ""
   description = """
-  to be continued
+  * Building highly scalable and fault tolerant environments in cloud (mainly AWS, also GCP, Azure)
+  * Advanced IaC setups with Terraform
+  * Migrating legacy setups to cloud native container solutions (ECS, EKS, EC2 ASG setups)
+  * Preparing secure Packer images for advanced snowflake like environments
+  * Implementing best security first approach practices to both greenfield and existing ecosystems.
+  * Advanced CI/CD setups and pipelines (CircleCI, Gitlab, Jenkins)
+  * Consulting and educating developers in DevOps related topics and practices on regular calendar based office hours
+  * Speaker in internal technical conferences, webinars and meetings
+  * Dedicated presales support with DevOps/Cloud/On premises estimations and recommendations.
+  * Active part in DevOps transformation within company (planning, consulting, documentation, Dev<->Ops handovers/cooperation)
   """
 
 [[experience]]
@@ -44,7 +59,7 @@ date_format = "Jan 2006"
   company = "Netguru"
   company_url = "https://www.netguru.com"
   location = "Remote"
-  date_start = "2017-08-07"
+  date_start = "2018-02-01"
   date_end = "2019-03-31"
   description = """
   * Server configuration automation - RnD, automation improvements (Ansible)
