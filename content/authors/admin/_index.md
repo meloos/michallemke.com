@@ -43,9 +43,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: cv
-#  icon_pack: ai
-#  link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/michal-lemke
