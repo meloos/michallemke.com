@@ -4,6 +4,9 @@
 #
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
 # Each configuration section is defined by a name in square brackets (e.g. `[search]`).
+   
+# Highlight the site author (superuser) in author lists? (true/false)
+highlight_superuser = false
 
 ############################
 ## Theme
@@ -282,5 +285,11 @@ plugins_js  = []
 ## Content Management System
 ############################
 [cms]
-  # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
-  netlify_cms = false
+ # See https://sourcethemes.com/academic/docs/install/
+ netlify_cms = false
+  
+############################
+## Icon Pack Extensions
+############################
+[icon.pack]
+ ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
