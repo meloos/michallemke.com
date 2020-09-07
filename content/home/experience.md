@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.netguru.com"
   location = "Gdańsk / Remote"
   date_start = "2019-10-01"
-  date_end = ""
+  date_end = "2020-09-18"
   description = """
   * Leading team of talented DevOps Engineers
   * Conducting regular meetings with both whole team and individuals
@@ -40,17 +40,17 @@ date_format = "Jan 2006"
   company_url = "https://www.netguru.com"
   location = "Gdańsk / Remote"
   date_start = "2019-04-01"
-  date_end = ""
+  date_end = "2020-09-18"
   description = """
   * Building highly scalable and fault tolerant environments in cloud (mainly AWS, also GCP, Azure)
   * Advanced IaC setups with Terraform
   * Migrating legacy setups to cloud native container solutions (ECS, EKS, EC2 ASG setups)
   * Preparing secure Packer images for advanced snowflake like environments
-  * Implementing best security first approach practices to both greenfield and existing ecosystems.
+  * Implementing best security first approach practices to both greenfield and existing ecosystems
   * Advanced CI/CD setups and pipelines (CircleCI, Gitlab, Jenkins)
   * Consulting and educating developers in DevOps related topics and practices on regular calendar based office hours
   * Speaker in internal technical conferences, webinars and meetings
-  * Dedicated presales support with DevOps/Cloud/On premises estimations and recommendations.
+  * Dedicated presales support with DevOps/Cloud/On premises estimations and recommendations
   * Active part in DevOps transformation within company (planning, consulting, documentation, Dev<->Ops handovers/cooperation)
   """
 
@@ -71,7 +71,7 @@ date_format = "Jan 2006"
   * Deployment tools (Capistrano, PM2)
   * Support/setup/administration of DB Engines both hosted and on-premise (MongoDB, MySQL, PostgreSQL)
   * Support/setup/administration of additional tools both hosted and on-premise (Elasticsearch, Memcached, Redis)
-  * Full DevOps consulting among company and clients, direct contact with clients and full collaboration with both internal and external teams.
+  * Full DevOps consulting among company and clients, direct contact with clients and full collaboration with both internal and external teams
   * On-call duty (Pagerduty)
   * Working with Jira/Confluence
   * Working with best SRE/DevOps practices

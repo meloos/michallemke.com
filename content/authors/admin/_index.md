@@ -71,7 +71,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I will help you ship your app to flexible, cost optimized infrastructure.
+I will help you ship your app to flexible, cost optimized infrastructure
 
 - I scale up and scale out, in cloud, mainly in AWS 
 - I build containers and pods, orchestrating them effectively
