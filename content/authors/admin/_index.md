@@ -10,14 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior DevOps Engineer <br />DevOps Team Leader
+role: Senior DevOps Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Acaisoft
-  url: "https://acaisoft.com/"
 - name: Bright Inventions
-  url: "https://brightinventions.pl/"
+  url: "https://brightinventions.pl"
+- name: Acaisoft
+  url: "https://acaisoft.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

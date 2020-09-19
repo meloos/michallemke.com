@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   company = "Acaisoft"
   company_url = "https://acaisoft.com"
   location = "Gdynia / Remote"
-  date_start = "2019-09-07"
+  date_start = "2020-09-07"
   date_end = ""
   description = """
   To be continued
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   company_url = "https://www.netguru.com"
   location = "Gdańsk / Remote"
   date_start = "2019-10-01"
-  date_end = "2020-09-01"
+  date_end = "2020-09-06"
   description = """
   * Leading team of talented DevOps Engineers
   * Conducting regular meetings with both whole team and individuals
@@ -63,7 +63,7 @@ date_format = "Jan 2006"
   company_url = "https://www.netguru.com"
   location = "Gdańsk / Remote"
   date_start = "2019-04-01"
-  date_end = "2020-09-01"
+  date_end = "2020-09-06"
   description = """
   * Building highly scalable and fault tolerant environments in cloud (mainly AWS, also GCP, Azure)
   * Advanced IaC setups with Terraform
