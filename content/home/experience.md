@@ -17,6 +17,29 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Senior DevOps Engineer"
+  company = "Bright Inventions"
+  company_url = "https://brightinventions.pl"
+  location = "Gdańsk / Remote"
+  date_start = "2020-09-21"
+  date_end = ""
+  description = """
+  To be continued
+  """
+
+[[experience]]
+  title = "Senior DevOps Engineer"
+  company = "Acaisoft"
+  company_url = "https://acaisoft.com"
+  location = "Gdynia / Remote"
+  date_start = "2019-09-07"
+  date_end = ""
+  description = """
+  To be continued
+  """
+
 [[experience]]
   title = "DevOps Team Leader"
   company = "Netguru"

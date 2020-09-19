@@ -14,8 +14,10 @@ role: Senior DevOps Engineer <br />DevOps Team Leader
 
 # Organizations/Affiliations
 organizations:
-- name: Netguru
-  url: "https://www.netguru.com"
+- name: Acaisoft
+  url: "https://acaisoft.com/"
+- name: Bright Inventions
+  url: "https://brightinventions.pl/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
